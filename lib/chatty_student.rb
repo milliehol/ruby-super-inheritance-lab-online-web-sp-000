@@ -5,8 +5,5 @@ super
 "Hello how are you"
 end
 
-def raise_hand
-
-end
 
 end
