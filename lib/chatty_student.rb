@@ -4,7 +4,6 @@ def hello
 super
 
 end
-end
 
 def raise_hand
 
