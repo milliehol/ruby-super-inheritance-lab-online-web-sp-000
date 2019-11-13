@@ -1,7 +1,9 @@
 class ChattyStudent < Student
 
 def hello
-phrase
+super
+
+end
 end
 
 def raise_hand
