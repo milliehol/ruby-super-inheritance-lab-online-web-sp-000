@@ -6,5 +6,10 @@ puts "How are you doing today? I'm okay, but I'm kind of tired. Did you watch Th
 ny spoilers? Okay well let me just tell you who died..."
 end
 
+def raise_hand
+ super.10
+
+end
+
 
 end
